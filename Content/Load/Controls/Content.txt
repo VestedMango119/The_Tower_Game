@@ -1,0 +1,4 @@
+Load=[ControlImages]
+[Load/Controls/titleScreencrop]
+[Load/Controls/noun_783_cc]
+[Load/Controls/Akey]
