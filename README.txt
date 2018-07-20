@@ -19,7 +19,7 @@ To run the application, download the project and click on the towerGame2.exe fil
 To play: 
 Arrow keys to move player
 A to attack
-Atack hell hounds for points
+Attack hell hounds for points
 Collect potions for health (if health is maxed, bonus points are rewarded!)
 Get to the stairs to complete the level
 
