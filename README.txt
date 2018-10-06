@@ -15,10 +15,11 @@ Highscore table
 Screen states
 
 To run the application, download the project and click on the towerGame2.exe file to run. 
+For a short video demo please select TheTowerDemo.mp4
 
 To play: 
 Arrow keys to move player
-A to attack
+A to attack (while moving)
 Attack hell hounds for points
 Collect potions for health (if health is maxed, bonus points are rewarded!)
 Get to the stairs to complete the level
